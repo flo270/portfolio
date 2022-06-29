@@ -85,10 +85,12 @@ function Proyect1() {
                     </div>
                     <div class="modal-body bg-dark">
                        <img src={loginGC} alt="loginGC" className="w-75 h-75"/>
-                       <p>Cunta con un login para evitar que cualquier persona vea informacion de los clientes. 
-                        <br />  Mediante permisos de lectura y escritura se establecio quien podia ver y modificar datos.</p>
+                       <p>Módulo de gestión de clientes.
+                           <br /> -Manejo de clientes. (CRUD): Se permite ingresar un cliente según su categoría en la AFIP, modificar su estado, así como detallar o eliminar al mismo.
+                           <br /> -Manejo de diferentes impuestos(CRUD): Ingreso de impuesto acorde a la categizacion y fechas de pago, así como la necesidad del cliente.
+                           <br /> -Manejo de fechas límites para pago: para recordatorio del contador y sus asociados.</p>
                         <img src={ri} alt="loginGC" className="w-75 h-75"/>
-                        <p>Permitia el registro impositivo asociado a cada cliente</p>
+                        
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Close</button>
