@@ -1,0 +1,52 @@
+{"experiencia":[
+    {"fecha":"01-04-2022-presente",
+      "titulo":"Investigadora graduada UTN-FRT en Agroindustria.",
+      "detalle1":"➢Planificación, investigación, búsqueda de información para la agroindustria.",
+      "detalle2":"➢ Desarrollo y confección de Papers de investigación acorde a tema asignado.",
+      "detalle3":"➢ Participación en eventos de investigación."
+    },
+    {"fecha":"01-04-2022-presente",
+        "titulo":"Docente adjunta de práctica UTN-FRT en Investigación Operativa.",
+        "detalle1":"➢Programar, coordinar las clases prácticas.",
+        "detalle2":"➢ Armar, dictar, y planificar las actividades acordes al plan anual de la materia.",
+        "detalle3":"➢ Corrección y calificación de los trabajos y actividades de la materia.",
+        "detalle4":"➢Acompañar la formación de investigación del alumno."
+      },
+      {"fecha":"04-04-2017-presente",
+        "titulo":"Empleada. Ministerio de Interior de la Comuna de Sacrificio (medio día).",
+        "detalle1":"➢Promover la cooperación entre las comunas.",
+        "detalle2":"➢ Documentación administrativa.",
+        "detalle3":"➢ Entendimiento en la formulación de planes y acciones de apoyo",
+        "detalle4":"➢ Ayuda en la documentación e implementación de estrategias, políticas y mecanismos de desarrollo integral"
+      },
+      {"fecha":"1-10-2020 - 15-01-2021(4 meses) ",
+        "titulo":" Practica supervisada. Estudio contable M&C.",
+        "detalle1":"➢Instalación HW y SW.",
+        "detalle2":"➢ Análisis e implementación de página web de presentación.",
+        "detalle3":"➢ Análisis e implementación de módulo de sistema de gestión de clientes."
+      },
+      {"fecha":"03.2016 - 03.2017 (12 meses) ",
+        "titulo":" Empleada. UTN FRT Área TIC’S",
+        "detalle1":"➢Soporte técnico y mantenimiento a las redes y hardware instalado",
+        "detalle2":"➢Ayuda a los otros departamentos, manejo, instalación y programación de software y soporte al   área de seguridad y mantenimiento de software."
+    },
+      {"fecha":"*1-10-2020 - 15-01-2021(4 meses) ",
+        "titulo":" Practica supervisada. Estudio contable M&C.",
+        "detalle1":"➢Instalación HW y SW.",
+        "detalle2":"➢ Análisis e implementación de página web de presentación.",
+        "detalle3":"➢ Análisis e implementación de módulo de sistema de gestión de clientes."
+      }
+
+],
+"formacion":[
+    {
+        "formacion":"UTN-FRT. Ingeniería en sistemas de información. Cursado finalizado en 2020- Recibida el 13-08-2021.Titulo en trámite."
+    },
+    {
+        "formacion":"Rolling Code School. Full Stack Developer. (Cursando) 29-11-2021-Actualidad"
+    },
+    {
+        "formacion":"Investigación UTN-FRT. Formación de investigador mediante proyecto Agroindustria perteneciente a GIITNI."
+    }
+]
+}

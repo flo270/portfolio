@@ -1,0 +1,13 @@
+.bgColor{
+    background-color: black;
+}
+.img{
+    max-width: 75%;
+    min-width: 75%;
+    border-radius: 40px;
+}
+.boton
+{
+    background-color: darkblue;
+    color:white;
+}
